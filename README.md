@@ -23,6 +23,7 @@
 ## 🎬 核心商业看板动态演示
 *(利用 Tableau 的全局筛选联动，实现对高风险客群的下钻挖掘)*
 
-![Dashboard Demo](telco-churn-analysis/dashboard/dashboard_demo.gif)
+<video src="dashboard/dashboard_demo.mp4" controls="controls" width="100%">
+</video>
 
 >  **项目说明：** 本仓库为完整开源的分析项目，涵盖 SQL 数据清洗溯源、可视化看板交互及业务建议结论。
